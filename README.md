@@ -9,10 +9,10 @@ Neste semestre temos o objetivo de montar um sistema de ERP (Planejamento de Rec
 
 Ferramenta   | Descrição
 --------- | ------
-Notion | R$ 10
-Miro | R$ 8
-Figma | R$ 7
-Hotjar | R$ 8
+Notion | Anotação de brainstorm e definição das features
+Miro | Mapeamento de jornada, fluxo de informação e priorização de feature
+Figma | Prototipação de baixa e alta fidelidade
+Hotjar | Teste de usabilidade e análise de dados
 
 ### TAMSOMSAM
 
