@@ -9,7 +9,7 @@ Neste semestre temos o objetivo de montar um sistema de ERP (Planejamento de Rec
 [x] Figma
 [X] Miro
 [X] Hotjar
-[X] 
+[X] Notion
 
 
 ### TAMSOMSAM
