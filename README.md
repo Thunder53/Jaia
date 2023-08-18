@@ -14,6 +14,7 @@ Miro | Mapeamento de jornada, fluxo de informação e priorização de feature
 Figma | Prototipação de baixa e alta fidelidade
 Hotjar | Teste de usabilidade e análise de dados
 
+
 ### TAMSOMSAM
 
 #### TAM (Total Anddressable Market)
@@ -48,3 +49,12 @@ XXXXX
 ### Hotjar
 
 ### Melhorias
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
