@@ -6,11 +6,13 @@
 Neste semestre temos o objetivo de montar um sistema de ERP (Planejamento de Recursos Empresariais). Um ERP é responsável por fazer a administração de todas as áreas de uma empresa de forma centralizada, ou seja, integra todos os sistemas e organiza todos os dados.
 
 ### Ferramentas Utilizadas
-[x] Figma
-[X] Miro
-[X] Hotjar
-[X] Notion
 
+Ferramenta   | Descrição
+--------- | ------
+Notion | R$ 10
+Miro | R$ 8
+Figma | R$ 7
+Hotjar | R$ 8
 
 ### TAMSOMSAM
 
