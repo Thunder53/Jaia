@@ -37,27 +37,27 @@
    <td>Primeira Sprint</td>
    <td>Produto: Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Tela de Cadastros(Cadastro, Edição e Deleção de Produtos, marcas, fornecedores,vendedores, pessoas, categorias) | Desenvolvimento: Tela de Estoque (Cadastro, Edição e Deleção de Armazém, reserva de estoque, movimentação de estoque e saldo de produtos)</td>
    <td>24/09/2023</td>
-   <td><a href= "Sprint 01"</a></td>
+   <td><a href= "Sprint 01">Sprint 01</a></td>
   </tr>
 
   <tr>
    <td>Segunda Sprint</td>
-   <td>Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Cadastro, Edição e Deleção de Pedidos  | Desenvolvimento: Tela de Faturamento (Visualização de Receitas em tabelas e Relatórios de BI </td>
+   <td>Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Cadastro, Edição e Deleção de Pedidos | Melhorias Primeira Sprint </td>
    <td>15/10/2023</td>
    <td><a href="Sprint 02">Sprint02</a></td>
   </tr>
 
   <tr>
    <td>Terceira Sprint</td>
-   <td>Visualização do histórico de vendas, gráficos comparativos, implementação de filtors de busca e edição das vendas, importação das bases de dados para o banco </td>
-   <td>14/05/2023</td>
-   <td><a href="https://github.com/Thunder53/Dom-Rock/releases/tag/Sprint03">Sprint03</a></td>
+   <td>Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Tela de Faturamento (Visualização de Receitas em tabelas e Relatórios de BI) | Melhorias Segunda Sprint </td>
+   <td>05/11/2023</td>
+   <td><a href="Sprint 03">Sprint03</a></td>
   </tr>
  
    <tr>
    <td>Quarta Sprint</td>
-   <td>Implementação de notificações no sistema quando metas são atingidas pelos vendedores, gráficos histórico e predição de vendas, melhorias na interface</td>
-   <td>13/06/2023</td>
+   <td>Melhorias, Documentação e Instruções de Uso</td>
+   <td>26/11/2023</td>
    <td><a href="">Sprint04</a></td>
   </tr>
   </table>
