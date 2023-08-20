@@ -1,6 +1,9 @@
 # Jaia
 
 # Contexto
+[Jaia Software](https://jaia.software/jaia-erp.php)
+
+A empresa Jaia software é um empresa de ERP voltada para a gestão de processos. Em seu software ela fornece as funionalidades de emissão de NF, Gestão de Compras, Controle de Estoque e Controle Financeiro. Atualmente a empresa quer desenvolver xxxxxxxxxx
 
 # Equipe
 
@@ -42,14 +45,14 @@
 
   <tr>
    <td>Segunda Sprint</td>
-   <td>Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Cadastro, Edição e Deleção de Pedidos | Melhorias Primeira Sprint </td>
+   <td>Produto: Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Cadastro, Edição e Deleção de Pedidos | Melhorias Primeira Sprint </td>
    <td>15/10/2023</td>
    <td><a href="Sprint 02">Sprint02</a></td>
   </tr>
 
   <tr>
    <td>Terceira Sprint</td>
-   <td>Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Tela de Faturamento (Visualização de Receitas em tabelas e Relatórios de BI) | Melhorias Segunda Sprint </td>
+   <td>Produto: Discovery de Produto, Ideação das Telas, Teste de Usabilidade | Desenvolvimento: Tela de Faturamento (Visualização de Receitas em tabelas e Relatórios de BI) | Melhorias Segunda Sprint </td>
    <td>05/11/2023</td>
    <td><a href="Sprint 03">Sprint03</a></td>
   </tr>
