@@ -1,5 +1,26 @@
 # Jaia
 
+# Contexto
+
+# Equipe
+
+> _Product Owner_ - [Alan Morato](https://www.linkedin.com/in/alan-morato-37b214154/)
+
+> _Scrum Master_ - [Lucas Emanoel](https://www.linkedin.com/in/lucas-emanoel-teixeira-engracio-da-silva-ab5611234/)
+
+> _Dev. Team_ - [Ariane Cristina](https://www.linkedin.com/in/ariane-sousa77/)
+
+> _Dev. Team_ - [Elizabeth Cristina Alves Leite](https://www.linkedin.com/in/elizabeth-cristina-alves-leite-176a9416a)
+
+> _Dev. Team_ - [Tobias Fernandes Bezerra Sousa](https://www.linkedin.com/in/tobias-sousa-23bba822a)
+
+> _Dev. Team_ - [Julia Quitério](https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/)
+
+> _Dev. Team_ - [Murilo Junior](https://www.linkedin.com/in/murilo-jos%C3%A9-de-brito-junior-32403b157/)
+
+> _Dev. Team_ - [Silas Prado](https://www.linkedin.com/in/silasprd/)
+
+
 
 ## Análise de Mercado
 
